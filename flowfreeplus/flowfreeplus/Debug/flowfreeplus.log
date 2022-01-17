@@ -1,0 +1,4 @@
+﻿  flowfreeplus.cpp
+D:\Flow Free++\flowfreeplus\flowfreeplus\flowfreeplus.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+D:\Flow Free++\flowfreeplus\flowfreeplus\flowfreeplus.cpp(104,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  flowfreeplus.vcxproj -> D:\Flow Free++\flowfreeplus\Debug\flowfreeplus.exe
